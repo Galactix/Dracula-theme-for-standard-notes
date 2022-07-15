@@ -5,8 +5,8 @@
   "area": "themes",
   "version": "2.0.0",
   "description": "A Dracula theme for Standard Notes",
-  "url": "https://cdn.jsdelivr.net/gh/Galactix/Dracula-theme-for-standard-notes@d0cc39e25d080e7f3d0aa9d78bbab2460a2e3602/dist/dist.css",
-  "latest_url": "https://cdn.jsdelivr.net/gh/Galactix/Dracula-theme-for-standard-notes@d0cc39e25d080e7f3d0aa9d78bbab2460a2e3602/ext.json",
+  "url": "https://cdn.jsdelivr.net/gh/Galactix/Dracula-theme-for-standard-notes@master/dist/dist.css",
+  "latest_url": "https://cdn.jsdelivr.net/gh/Galactix/Dracula-theme-for-standard-notes@master/ext.json",
   "download_url": "https://github.com/dracula/standard-notes/archive/refs/heads/master.zip",
   "marketing_url": "https://github.com/Galactix/Dracula-theme-for-standard-notes",
   "dock_icon": {
