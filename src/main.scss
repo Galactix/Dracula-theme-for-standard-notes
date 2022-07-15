@@ -1,17 +1,18 @@
 :root {
-  --background: #282a36;
+  --background: #2122c;
   --current-line: #44475a;
   --foreground: #f8f8f2;
   --comment: #6272a4;
   --red: #ff5555;
   --orange: #ffb86c;
   --green: #50fa7b;
+  --blue: #1360b2;
   --pink: #ff79c6;
   --purple: #bd93f9;
   --cyan: #8be9fd;
   --yellow: #f1fa8c;
 
-  --bar-color: rgb(32, 34, 49);
+  --bar-color: rgb(52, 55, 70);
   --darker-background: rgb(25, 26, 33);
   --darker-background-border: rgb(32, 34, 49);
 
@@ -21,6 +22,7 @@
   --sn-stylekit-accessory-tint-color-4: var(--cyan);
   --sn-stylekit-accessory-tint-color-5: var(--green);
   --sn-stylekit-accessory-tint-color-6: var(--yellow);
+  --sn-stylekit-accessory-tint-color-7: var(--blue);
 
   --highlight-color: var(--comment);
   --sn-component-foreground-color: var(--foreground);
@@ -29,7 +31,7 @@
   --sn-component-outer-border-color: var(--comment);
   --sn-component-inner-border-color: var(--foreground);
   --sn-stylekit-shadow-color: var(--comment);
-  --sn-stylekit-info-color: var(--pink);
+  --sn-stylekit-info-color: var(--cyan);
   --sn-stylekit-info-contrast-color: var(--background);
   --sn-stylekit-neutral-color: var(--purple);
   --sn-stylekit-neutral-contrast-color: var(--foreground);
